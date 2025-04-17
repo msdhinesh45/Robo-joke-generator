@@ -8,7 +8,6 @@ A fun and interactive web app where a robot tells you random jokes with a click 
 
 👉 [Click here to try it now](https://msdhinesh45.github.io/Robo-joke-generator/)
 
-> *(Replace the above link with your actual GitHub Pages or live hosting link)*
 
 ---
 
@@ -53,11 +52,6 @@ A fun and interactive web app where a robot tells you random jokes with a click 
 5. Click the joke button and laugh out loud!
 
 ---
-
-## 📸 Avatar Image
-
-Make sure to include a robot image named `roboat image.png` in your project directory. You can replace it with your custom bot image if you like.
-
 ---
 
 ## 🙋 Author
